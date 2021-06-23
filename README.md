@@ -5,7 +5,7 @@ I am Oluwatobiloba :blue_heart:
 
 - Passionate and experienced front-end web developer using JavaScript, HTML5, and CSS to build all aspects of the user experience and user interface for client-facing landing pages. Specializes in using jQuery and VueJS to build e-commerce sites.
 
-##### Proficient: JavaScript, jQuery, HTML5, CSS3, Sass Bootstrap, VueJS
+#### Proficient: JavaScript, jQuery, HTML5, CSS3, Sass Bootstrap, VueJS
 
 ##### Experienced: Python, Java
 
