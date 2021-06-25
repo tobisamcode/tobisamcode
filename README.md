@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### :blue_heart: Meet a Mathematician | Scientist | Software developer | Teacher
+#### :blue_heart: Meet a Mathematician | Scientist | Software developer | Teacher | Keyboardist
 ### About
 I am Oluwatobiloba :blue_heart:
 
