@@ -5,7 +5,7 @@ I am Tobi :blue_heart: , a passionate and experienced front-end web developer us
 
 #### Proficient: HTML5, CSS3(Sass, Tailwind CSS) and JavaScript (jQuery, VueJs).
 ##### Experienced: Python, Java
-##### Familiar: Ajax, Git, GitHub, SQL
+##### Familiar: Ajax, Git, GitHub, MySQL
 
 
 <!--
