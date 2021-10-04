@@ -2,16 +2,7 @@
 #### :blue_heart: Meet a Motivated Scholar!
 
 ## Technologies in 2021: 
-##### + JavaScript 
-##### + Python
-##### + Vue.js
-##### + Nuxt.js
-##### + Node.js
-##### + Tailwind
-##### + Bootstrap
-##### + SASS
-##### + Firebase
-
+###  JavaScript || Python || Vue.js || Nuxt.js || Node.js || Tailwindcss || Bootstrap || Sass || Firebase
 
 
 #### Object-Oriented Programming, Performance Testing, Load Testing & Debugging and lots more.
