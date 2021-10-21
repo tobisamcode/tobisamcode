@@ -3,7 +3,7 @@
 
 ## Technologies in 2021: 
 
-JavaScript | Python | Vue.js | Nuxt.js | Node.js | Tailwindcss | Bootstrap | Sass | Firebase
+JavaScript | Python | Vue.js | Nuxt.js | Node.js | Tailwindcss | Bootstrap | Sass | Firebase | Git
 
 
 Data structure and Algorithms, Object-Oriented Programming, Performance Testing, Load Testing & Debugging and lots more.
