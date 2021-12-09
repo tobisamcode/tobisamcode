@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### :blue_heart: Meet a Motivated Scholar!
 
-## Technologies in 2021: 
+## Technologies in 2020/21: 
 
 JavaScript | Python | Vue.js • Vuex | Nuxt.js | Node.js | Tailwindcss | Bootstrap | Sass | Firebase | Git.
 
