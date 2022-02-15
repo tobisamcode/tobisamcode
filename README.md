@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 #### :blue_heart: Meet a Motivated Scholar!
 
 ## Technologies in 2020/21: 
