@@ -18,8 +18,7 @@ My name is Tobiloba
 
 - A dedicated software engineer(frontend) residing at Lagos, Nigeria
 
-- 🌱 I’m currently learning [Node Js](https://nodejs.org/en/) and [React Js](https://react.org) [Information Security](https://en.wikipedia.org/wiki/Information_security)
-
+- 🌱 I’m currently learning [Node Js](https://nodejs.org/en/) and [React Js](https://react.org)
 - 👯 I’m looking to collaborate on [Open source](https://en.wikipedia.org/wiki/Open_source) software projects
 
 - 💬 You can reach out to me on github about any [issues](https://github.com/tobisamcode/tobisamcode/issues) and you can check out my recent writings on [medium](https://medium.com/@samueloluwatobiloba48)
