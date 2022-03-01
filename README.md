@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Tobiloba
+Hi, My name is Tobiloba 😄
 
-- A dedicated software engineer(frontend) residing at Lagos, Nigeria
+- A dedicated frontend software engineer [Vue js](https://vuejs.org) / [Nuxt js](https://nuxtjs.org/) residing at Lagos, Nigeria
 
-- 🌱 I’m currently learning [Node Js](https://nodejs.org/en/) and [React Js](https://react.org)
+- 🌱 I’m currently learning [Node Js](https://nodejs.org/en/) and [React Js](https://reactjs.org)
 - 👯 I’m looking to collaborate on [Open source](https://en.wikipedia.org/wiki/Open_source) software projects
 
 - 💬 You can reach out to me on github about any [issues](https://github.com/tobisamcode/tobisamcode/issues) and you can check out my recent writings on [medium](https://medium.com/@samueloluwatobiloba48)
