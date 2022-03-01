@@ -35,9 +35,7 @@ My name is Tobiloba
 <a href="https://twitter.com/tobisam100">
   <img align="left" alt="My Twitter Account" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://wa.me/2347039999740">
-  <img align="left" alt="My contact" width="21px" src="https://image.flaticon.com/icons/png/512/124/124034.png" />
-</a>
+
 
 <br/>
 <br/>
@@ -45,6 +43,6 @@ My name is Tobiloba
  * NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of [github-readme-stats](https://github.com/tobisamcode/github-readme-stats).
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=E-wave112&show_icons=true&include_all_commits=true&theme=radical&title_color=FFC73E" alt="E-wave's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tobisamcodes&show_icons=true&include_all_commits=true&theme=radical&title_color=FFC73E" alt="E-wave's github stats" />
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tobisamcode&theme=radical&title_color=FFC73E)](https://github.com/tobisamcode/github-readme-stats)
