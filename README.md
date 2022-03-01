@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 My name is Tobiloba
 
-- A dedicated software engineer(Frontend) residing at Lagos, Nigeria
+- A dedicated software engineer(frontend) residing at Lagos, Nigeria
 
-- 🌱 I’m currently learning [Node js](https://nodejs.org/en/) and [Information Security](https://en.wikipedia.org/wiki/Information_security)
+- 🌱 I’m currently learning [Node Js](https://nodejs.org/en/) and [React Js](https://react.org) [Information Security](https://en.wikipedia.org/wiki/Information_security)
 
 - 👯 I’m looking to collaborate on [Open source](https://en.wikipedia.org/wiki/Open_source) software projects
 
