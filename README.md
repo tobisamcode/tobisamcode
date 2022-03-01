@@ -43,6 +43,6 @@ My name is Tobiloba
  * NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of [github-readme-stats](https://github.com/tobisamcode/github-readme-stats).
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tobisamcodes&show_icons=true&include_all_commits=true&theme=radical&title_color=FFC73E" alt="E-wave's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tobisamcode&show_icons=true&include_all_commits=true&theme=radical&title_color=FFC73E" alt="E-wave's github stats" />
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tobisamcode&theme=radical&title_color=FFC73E)](https://github.com/tobisamcode/github-readme-stats)
