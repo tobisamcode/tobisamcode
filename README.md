@@ -35,8 +35,6 @@ Hi, My name is Tobiloba 😄
   <img align="left" alt="My Twitter Account" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
-
-<br/>
 <br/>
 
  * NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of [github-readme-stats](https://github.com/tobisamcode/github-readme-stats).
