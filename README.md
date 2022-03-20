@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tobisamcode?tab=repositories](https://github.com/tobisamcode?tab=repositories)
-
 - 💬 Ask me about **Vue**
 
 - 📫 How to reach me **samueloluwatobiloba48@gmail.com**
