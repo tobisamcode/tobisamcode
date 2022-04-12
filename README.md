@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **A Survey App**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Node Js**
 
 - 💬 Ask me about **Vue**
 
