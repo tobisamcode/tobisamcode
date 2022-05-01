@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oluwatobiloba</h1>
+<h1 align="center">Hi 👋, I'm Tobi!</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobisamcode&label=Profile%20views&color=0e75b6&style=flat" alt="tobisamcode" /> </p>
