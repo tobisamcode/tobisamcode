@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node Js**
 
-- 💬 Ask me about **Vue**
+- 💬 Ask me about **VueJS**
 
 - 📫 How to reach me **samueloluwatobiloba48@gmail.com**
 
