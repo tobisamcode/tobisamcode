@@ -5,7 +5,7 @@ Full Stack JavaScript Developer from Nigeria 🇳🇬
 
 🔭 I am open to gigs. We know our stuff. Shoot me a mail.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobisamcode&hide=css,html,ejs&layout=compact&theme=nightowl)](https://github.com/tobisamcode/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobisamcode&hide=css,html,&layout=compact&theme=nightowl)](https://github.com/tobisamcode/github-readme-stats)
 
 ```javascript
 const Stack = [
