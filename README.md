@@ -1,22 +1,39 @@
 ### Hi, 👋 I'm Tobi.
 Full Stack JavaScript Developer from Nigeria 🇳🇬
 
-`Talented Mathematics scholar with a drive for Software Engineering`
+`Talented Mathematics scholar with a drive for Software Engineering. Goal-oriented software engineer experienced in JavaScript, Python and Java`
 
-`Goal-oriented software engineer experienced in JavaScript, Python and Java`
+🔭 I am open to gigs. We know our stuff. Shoot me a mail.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobisamcode&hide=css,html,ejs&layout=compact&theme=nightowl)](https://github.com/tobisamcode/github-readme-stats)
 
 ```javascript
 const Stack = [
           {
-             frontend: ['reactJs', 'vueJs', 'jQuery'],
-             backend: ['nodeJs', 'expressJs'],
-             database: ['Mongodb', 'SQL']
+             frontend: {
+                            'reactJs', 'vueJs', 'jQuery'
+                       },
+             backend: {
+                            'nodeJs', 'expressJs'
+                      },
+             database: {
+                            'Mongodb', 'SQL'
+                       }
           }
 ]
 ```
 
-`connect and follow me on 👉`
-<a href="https://twitter.com/tobisam100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tobisam100" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tobiadesokan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oluwatobiloba-adesokan-38093b1a3/" height="30" width="40" /></a>
-</p>
+
+### Connect with me:
+
+[<img align="left" alt="ayfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="regedit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="regedit | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="regedit | whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+
+[website]: https://tobi-porfolio.herokuapp.com
+[linkedin]: https://www.linkedin.com/in/tobiadesokan/
+[whatsapp]: https://wa.link/upzqbg
+[facebook]: https://www.facebook.com/profile.php?id=100080061182984
+
 
