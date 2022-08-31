@@ -10,15 +10,15 @@ Full Stack JavaScript Developer from Nigeria 🇳🇬
 ```javascript
 const Stack = [
           {
-             frontend: {
+             frontend: [
                             'reactJs', 'vueJs', 'jQuery'
-                       },
-             backend: {
+                       ],
+             backend: [
                             'nodeJs', 'expressJs'
-                      },
-             database: {
+                      ],
+             database: [
                             'Mongodb', 'SQL'
-                       }
+                       ]
           }
 ]
 ```
