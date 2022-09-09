@@ -17,7 +17,7 @@ const Stack = [
                             'nodeJs', 'expressJs'
                       ],
              database: [
-                            'Mongodb', 'SQL'
+                            'Mongodb', 'SQL', Firebase/Firestore
                        ]
           }
 ]
