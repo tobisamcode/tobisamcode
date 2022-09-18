@@ -5,23 +5,7 @@ Full Stack JavaScript Developer from Nigeria 🇳🇬
 
 🔭 I am open to gigs. We know our stuff. Shoot me a mail.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobisamcode&hide=css,html,shell&layout=compact&theme=nightowl)](https://github.com/tobisamcode/github-readme-stats)
-
-```javascript
-const Stack = [
-          {
-             frontend: [
-                            'reactJs', 'vueJs', 'jQuery'
-                       ],
-             backend: [
-                            'nodeJs', 'expressJs'
-                      ],
-             database: [
-                            'Mongodb', 'SQL', 'Firebase/Firestore'
-                       ]
-          }
-]
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobisamcode&hide=css,ejs,html,shell&layout=compact&theme=nightowl)](https://github.com/tobisamcode/github-readme-stats)
 
 
 ### Connect with me:
