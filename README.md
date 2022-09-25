@@ -1,7 +1,7 @@
 ### Hi, 👋 I'm Tobi.
 Full Stack JavaScript Developer from Nigeria 🇳🇬
 
-`Talented Mathematics scholar with a drive for Software Engineering. Goal-oriented software engineer experienced in JavaScript, Python and Java`
+Talented Mathematics scholar with a drive for Software Engineering. Goal-oriented software engineer experienced in JavaScript, Python and Java
 
 🔭 I am open to gigs. We know our stuff. Shoot me a mail.
 
