@@ -3,7 +3,7 @@ Full Stack JavaScript Developer from Nigeria 🇳🇬
 
 Talented Mathematics scholar with a drive for Software Engineering. Goal-oriented software engineer experienced in JavaScript, Python and Java
 
-🔭 I am open to gigs. We know our stuff. Shoot me a mail...
+🔭 I am open to gigs. We know our stuff. Shoot me a mail
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobisamcode&hide=css,ejs,html,shell&layout=compact&theme=nightowl)](https://github.com/tobisamcode/github-readme-stats)
 
