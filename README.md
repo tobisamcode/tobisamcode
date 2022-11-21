@@ -8,7 +8,7 @@ A Mathematics scholar with a drive for Software Engineering. Goal-oriented softw
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobisamcode&hide=css,ejs,html,shell&layout=compact&theme=nightowl)](https://github.com/tobisamcode/github-readme-stats)
 
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="ayfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="regedit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
