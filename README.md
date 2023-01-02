@@ -1,7 +1,28 @@
-### Hi, 👋 I'm Tobi.
-Full Stack JavaScript Developer from Nigeria 🇳🇬
+### Yo!
 
-A Mathematics scholar with a drive for Software Engineering. Goal-oriented software engineer experienced in JavaScript, Python and Java
+```js
+class Profile {
+  constructor(name, city, role) {
+    this.name = name;
+    this.city = city;
+    this.role = role;
+  }
+
+  introduceMe() {
+    return `Hi 👋, I'm ${this.name}, 
+    I'm a ${this.role} who loves building software solutions that run on the web, 
+    I currently work remotely from ${this.city}`;
+  }
+}
+let tobi = new Profile(
+  "Tobi",
+  "Lagos, Nigeria",
+  "JavaScript Full Stack Software Engineer"
+);
+
+console.log(tobi.introduceMe());
+
+```
 
 🔭 I am open to gigs. We know our stuff. Shoot me a mail!
 
