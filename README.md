@@ -1,4 +1,9 @@
 ### Yo!
+- [x] Software Engineer
+- [x] All Things Web
+- [x] Mathematics Scholar 
+- [x] Dreamer
+ 
 
 ```js
 class Profile {
