@@ -32,6 +32,7 @@ console.log(tobi.introduceMe());
 🔭 I am open to gigs. We know our stuff. Shoot me a mail!
 
 [![Regedit's github stats](https://github-readme-stats.vercel.app/api?username=tobisamcode&show_icons=true&theme=nightowl)](https://github.com/tobisamcode/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobisamcode&hide=css,scss,shell,ejs,html&layout=compact&theme=nightowl)](https://github.com/tobisamcode/github-readme-stats)
+  [![Tobi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tobisamcode&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
