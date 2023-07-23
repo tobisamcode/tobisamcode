@@ -1,38 +1,10 @@
 ### Yo!
 - [x] Software Engineer
 - [x] All Things Web
-- [x] Mathematics graduate
+- [x] Fresh Graduate
 - [x] Dreamer
- 
-
-```js
-class Profile {
-  constructor(name, city, role) {
-    this.name = name;
-    this.city = city;
-    this.role = role;
-  }
-
-  introduceMe() {
-    return `Hi 👋, I'm ${this.name}, 
-    I'm a ${this.role} who loves building software solutions that run on the web, 
-    I currently work remotely from ${this.city}`;
-  }
-}
-let tobi = new Profile(
-  "Tobi",
-  "Lagos, Nigeria",
-  "JavaScript Full Stack Software Engineer"
-);
-
-console.log(tobi.introduceMe());
-
-```
 
 🔭 I am open to gigs. We know our stuff. Shoot me a mail!
-
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
-
 
 [![Regedit's github stats](https://github-readme-stats.vercel.app/api?username=tobisamcode&show_icons=true&theme=nightowl)](https://github.com/tobisamcode/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobisamcode&hide=css,scss,shell,ejs,html&layout=compact&theme=nightowl)](https://github.com/tobisamcode/github-readme-stats)
 
