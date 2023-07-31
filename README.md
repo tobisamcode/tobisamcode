@@ -1,5 +1,5 @@
 ### Yo!
-- [x] Software Engineer
+- [x] Web & Mobile Engineer (React | Next | React-Native)
 - [x] All Things Web
 - [x] Fresh Graduate
 - [x] Dreamer
