@@ -1,5 +1,5 @@
 ### Yo!
-- [x] Web & Mobile Engineer
+- [x] Web & Mobile (iOS & Android) Engineer
 
 🔭 I am open to gigs.
 
