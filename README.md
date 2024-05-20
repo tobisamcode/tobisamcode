@@ -14,8 +14,8 @@ interface Engineer extends Person {
 }
 const tobi: Engineer = {
   name: "Tobi Adesokan",
-  languages: ["Python", "JavaScript", "Typescript", "Elixir"],
-  stack: ["Reactjs", "Nextjs", "React Native", "Nodejs", "Express"] 
+  languages: ["Python", "JS", "TS", "Elixir"],
+  stack: ["Reactjs", "Nextjs", "React Native", "Nodejs", "Express", "MongoDB", "Postgresql", "SQL"] 
 }
 
 ```
